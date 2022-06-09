@@ -1,3 +1,5 @@
+[git server](https://git.holy.how/holy/)
+
 # Why this organization exists
 
 - mirror repositories from our git server to Github to take advantage of GitHub pages
